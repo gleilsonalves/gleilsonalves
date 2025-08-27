@@ -18,8 +18,7 @@ Aqui você vai encontrar muito código, não só ABAP, mas também JS, React, Re
 <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
 <br><br>
 <img src='https://img.shields.io/badge/-ReactJs-00599C?logo=react&logoColor=white&style=for-the-badge'>
-<br><br>
-<img src='https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white'>
+<br>
 
 ## 💻 Onde me encontrar
 
