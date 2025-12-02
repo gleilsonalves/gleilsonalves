@@ -6,7 +6,7 @@ Sou formado em análise e desenvolvimento de sistemas pelo centro universitário
 
 Aqui você vai encontrar muito código, não só ABAP, mas também JS, React, React Native e etc.<br>
 
-<b>💾 I'm a Software Developer 💾</b><br><br>
+<b>💾 I'm a Software Developer with a focus on ABAP 💾</b><br><br>
 
 ## 💻 Linguagens
 
