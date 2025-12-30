@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Ilustrator" min-width="100px" max-width="400px" width="200" align="right">
 
 # Gleilson Alves de Oliveira
-Sou formado em análise e desenvolvimento de sistemas pelo centro universitário Estácio de Sá. Comecei a carreira na T.I como suporte técnico N1, e hoje, estou com mais de 5 anos como desenvolvedor ABAP, e já estou atuando como sênior step 1 em desenvolvimento SAP ABAP. <br>
+Sou formado em análise e desenvolvimento de sistemas pelo centro universitário Estácio de Sá. Comecei a carreira na T.I como suporte técnico N1, e hoje, estou com mais de 7 anos como desenvolvedor ABAP, e já estou atuando como sênior step 1 em desenvolvimento SAP ABAP. <br>
 
 Aqui você vai encontrar muito código, não só ABAP, mas também JS, React, React Native e etc.<br>
 
